@@ -1,0 +1,18 @@
+body{
+  background:#03c2fc;
+}
+h1,h3{
+  font-family:sans-serif, helvetica;
+}
+h3{
+  color:#adfc03;
+}
+p{
+  font-size:20px;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  color:#03fcad;
+}
